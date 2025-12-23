@@ -1,6 +1,7 @@
 name: Build BL2 and FIP
 
 on:
+  workflow_dispatch:
   push:
 
 jobs:
